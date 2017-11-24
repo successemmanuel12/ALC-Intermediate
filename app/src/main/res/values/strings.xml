@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CryptoCurrency Converter</string>
+    <string name="title_activity_eth">EthActivity</string>
+    <string name="convert">Convert</string>
+    <string name="view_btc_rate">BTC Rate</string>
+    <string name="view_eth_rate">ETH Rate</string>
+    <string name="coin_image">Coin Image</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>

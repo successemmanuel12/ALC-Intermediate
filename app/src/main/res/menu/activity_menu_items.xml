@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/convert"
+        android:icon="@drawable/ic_convert"
+        app:showAsAction="withText|ifRoom"
+        android:title="@string/convert" />
+
+    <item
+        android:id="@+id/btc_view"
+        android:icon="@drawable/bit"
+        app:showAsAction="ifRoom"
+        android:title="@string/view_btc_rate" />
+
+</menu>
